@@ -3,7 +3,6 @@ package smaplejenkinsdemo;
 public class FizzBuzz {
 
 	public static void main(String[] args) {
-		System.out.println("Jenkins demo");
 		int n = 100;
 		for(int i = 1; i<=n ; i++){
 		
